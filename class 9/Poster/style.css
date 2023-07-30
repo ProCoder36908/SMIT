@@ -1,0 +1,52 @@
+body{
+    border-style: solid;
+    margin: 20 ;
+    border-color: red;
+    border-width: 175px;
+    padding-top: 100px; 
+    padding: 50px;
+    }
+#Head{
+    font-size: 30px;
+    text-decoration: none;
+    background-color: black;
+    margin: 25px 185px ;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding-top: 20px;
+    padding-left: 50px;
+}
+ #name{
+    font-size: x-large;
+ }
+
+ #p{
+    padding: auto;
+    margin: 25px 185px;
+    text-align: justify;
+    
+ }
+
+#skills{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+}
+.images{
+    align-items: center;
+    display: grid;
+    grid-template-columns: auto;
+    margin:     5px 10px ;
+}
+        
+
+
+
+
+
+
+

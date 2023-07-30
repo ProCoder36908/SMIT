@@ -1,0 +1,48 @@
+html{
+border:5px double black;
+margin: 20px 20px 20px;
+
+
+}
+
+body{
+    text-align: center;
+    }
+
+
+
+a{
+    text-decoration: none;
+    color: black;
+    padding: 6px 18px 5px 18px;
+    
+
+    
+}
+
+a:hover{
+    color: red;
+}
+
+#links{
+    border-top: 10px solid black;
+    border-bottom: 5px solid black;
+    margin: 10px;
+    margin-left: 540px;
+    margin-right: 540px;
+    
+    
+}
+
+/* img{
+    
+} */
+
+
+
+#p1{
+    padding: auto;
+    margin: 25px 185px;
+    text-align: justify;
+
+}

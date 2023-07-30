@@ -1,0 +1,33 @@
+.black{
+    background-color: gray;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+.white{
+    background-color: #f0dec7;
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+}
+
+
+img{
+    position: absolute;
+    top: 10px;
+    left: 130px; 
+    position: relative;
+    right: 300px;
+}
+ul{
+background-color: aqua;
+position: sticky;
+top: 0;
+}
+
+ul>li{
+    display: inline-block;
+    width: 200px;
+    
+}

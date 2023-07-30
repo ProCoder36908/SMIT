@@ -1,0 +1,53 @@
+/* @font-face {
+    font-family: 'Comic';
+    src: url('./ComicNeue-BoldItalic.ttf');
+} */
+
+
+/* p{ */
+    /* font-family: 'Comic'; */
+    /* font-family: 'Kablammo', cursive;
+    font-size: 25px;
+    font-weight: 900;
+    font-style: oblique;
+    text-transform: lowercase; */
+    /* line-height: 50px;
+    word-spacing: 30px;
+    letter-spacing: 10px; */
+    /* text-align: center;
+    text-shadow: 5px 5px 5px   red;
+    box-shadow: 10px 10px 10px cyan;
+    background-color: greenyellow;
+}
+a{
+    text-decoration:none ;
+}
+p:first-letter{
+    font-size: 50px;
+}
+p::first-line{
+    font-size: 25px;
+} */
+
+/* input{
+    background-color:aqua ;
+}
+input:hover{
+    background-color: blue;
+}
+input:active{
+    background-color: red;
+} */
+/* input:focus{
+    background-color: yellow;
+} */
+
+a{
+    background-color: aquamarine;
+}
+a:link{
+    background-color: greenyellow;
+}
+a:visited{
+    background-color: yellow    ;
+}

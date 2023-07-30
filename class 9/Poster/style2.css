@@ -1,0 +1,38 @@
+body{
+    border-color: red;
+    border-width: 175px;
+    border-style: ridge;
+    padding: 50px;
+}
+
+#links{
+    font-size: 30px;
+    background-color: black;
+    margin: 10px 97px ;
+}
+a{
+    text-decoration: none;
+    color: white;
+    padding-top: 90px;
+    padding-left: 100px;
+}
+
+#p{
+    padding: auto;
+    margin: 10px 110px ;
+    text-align: justify;
+}
+
+#name{
+    font-size: x-large;
+}
+
+#images{
+    display: flex;
+    justify-content: center;
+    align-items: auto;
+    flex-wrap: wrap;
+
+}
+
+

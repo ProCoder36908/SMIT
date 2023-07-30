@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+</head>
+
+<body>
+ 
+            <div>
+                
+                <h1>Kids can code</h1>
+                <img id="mainimage"  src="./line.png"
+                alt="">
+                <button class="button"  onclick=runFor() >Try a loop</button><br>
+            </div>
+            <div id="main" >
+
+            </div>
+    
+</body>
+<script>
+    
+    
+    <!-- var age=window.prompt("Hi how old are u??")
+    if(isNaN(age)){
+        window.alert("NOT A NUMBER")
+    }
+    else{
+    if (age > 50){
+        window.alert("damn you are old")
+    }
+    else{
+        window.alert("you are young")
+    }
+        } -->
+function runFor(){
+    for(i = 0; i <5; i++){
+            $('#main').append("<img src='./line.jpg' />");
+        }
+}
+
+
+</script>
+
+</html>

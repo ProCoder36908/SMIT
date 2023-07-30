@@ -1,0 +1,82 @@
+a{
+    text-decoration: none;
+    color: black;
+    padding: 5px;
+}
+
+
+
+
+button{
+    border-radius: 30px;  
+    background-color: green;
+    color: white;
+    border-color: transparent;
+
+}
+.min2{
+    margin-top: 100px;
+}
+#button2{
+    background-color: white;
+    color: green;
+    border-color: green;
+}
+#bj{
+    color: green;
+    text-decoration: solid;
+}
+
+.cards{
+    border: 3px solid black;
+    border-radius:10px;
+    width:250px;
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 30px;
+
+}
+
+.cards:hover{
+    background-color: #e6e2d8;
+}
+.blocks{
+    margin-left: 130px;
+}
+#ab:hover{
+    color: #e4e7ed;
+}
+
+
+select{
+    border: 0px none white;
+}
+select:hover{
+    background-color: #e4e7ed;
+}
+html{
+    @font-face {
+        font-family: Allison;
+        src: url('./Allison-Regular.ttf');
+    }
+}
+
+.green{
+    color: green;
+    font-size: 100px;
+}
+
+
+
+#search{
+    border-radius: 30px;
+    size: 30px;
+}
+
+#search:hover{
+    background-color: #e4e7ed;
+}
+#nav{
+    position: sticky;
+    top: 0;
+}
